@@ -1,3 +1,5 @@
 #server:
 #  port: 8776
 foo: foo version WQ999 WQ922 WQ911
+server:
+  port: 8776
